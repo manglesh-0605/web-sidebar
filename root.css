@@ -1,0 +1,13 @@
+:root {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    /* border: 2px solid red; */
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 180px auto;
+    grid-gap: 10px;
+}
